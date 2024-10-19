@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @famouswizard
+- 👋 I’m @famouswizard
 - 👀 I help crypto projects that interest me
 - 🌱 I am engaged in installing nodes and learning about blockchain projects
 - 💞️ Looking for cooperation with interesting crypto projects
