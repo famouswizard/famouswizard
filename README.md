@@ -2,7 +2,7 @@
 - 👀 I help crypto projects that interest me
 - 🌱 I am engaged in installing nodes and learning about blockchain projects
 - 💞️ Looking for cooperation with interesting crypto projects
-- 📫 Twitter @famouswizard
+- 📫 X @famouswizard
 
 <!---
 famouswizard/famouswizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
